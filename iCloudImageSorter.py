@@ -5,7 +5,7 @@ from creationDateModifier import creationDateModifier
 os.system("cls")
 os.system("clear")
 
-print(f"""\033[95m\033[1m{"Creation Date Modifier".upper()}\033[0m\033[0m\n
+print(f"""\033[95m\033[1m{"iCloud Image Sorter".upper()}\033[0m\033[0m\n
 This program is used to extract data from iCloud photos, and format it to be able to be pushed to Google Drive.
 """)
 
